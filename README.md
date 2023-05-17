@@ -20,3 +20,5 @@
 </div>
 
 ![JoaoOLiveira GitHub stats](https://github-readme-stats.vercel.app/api?username=ojuaum1&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaum1&layout=compact)](https://github.com/ojuaum1/github-readme-stats)
